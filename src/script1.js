@@ -1,0 +1,1 @@
+document.getElementById("tittle").innerHTML = "Hello Javascript";
